@@ -1,11 +1,11 @@
 {
-  "name": "module-b",
-  "version": "1.0.2-alpha.0",
+  "name": "module-lerna-a",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "liyinfeng <liyinfeng@vipkid.com.cn>",
   "homepage": "https://github.com/liYinFeng2/lerna-test#readme",
   "license": "ISC",
-  "main": "lib/module-b.js",
+  "main": "lib/module-lerna-a.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/liYinFeng2/lerna-test/issues"
-  },
-  "gitHead": "e7854da4c2dc7c3ac65f8baefe8808548966a818"
+  }
 }
