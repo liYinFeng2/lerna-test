@@ -1,5 +1,5 @@
 {
-  "name": "module-a",
+  "name": "module-a-test-22",
   "version": "1.0.3-alpha.0",
   "description": "> TODO: description",
   "author": "liyinfeng <liyinfeng@vipkid.com.cn>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/liYinFeng2/lerna-test/issues"
   },
-  "gitHead": "e7854da4c2dc7c3ac65f8baefe8808548966a818"
+  "gitHead": "769d65b840b22eec0560c945d97d5ade0d6e65d7"
 }
