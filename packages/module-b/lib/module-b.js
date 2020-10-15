@@ -3,5 +3,5 @@
 module.exports = moduleB;
 
 function moduleB() {
-    window.console.log('我是 moduleA')
+    window.console.log('我是 ---> moduleB')
 }
